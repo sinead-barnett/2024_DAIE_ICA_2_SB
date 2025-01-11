@@ -2,6 +2,7 @@
 title: "PartCWebsite"
 format: html
 editor: visual
+echo: false
 ---
 
 ## Quarto
